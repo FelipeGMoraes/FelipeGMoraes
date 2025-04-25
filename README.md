@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Moraes</h1>
 <h3 align="center">A passionate DBA SQL Server from Brazil</h3>
 
-- 💬 Ask me about **SQL Server, SSMS, Azure and TSQL**
+- 💬 Ask me about **SQL Server, SSMS and TSQL**
 
 - 📫 How to reach me **moraexfelipe@gmail.com**
 
