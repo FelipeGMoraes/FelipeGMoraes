@@ -1,17 +1,14 @@
 <h1 align="center">Olá👋, Eu sou Felipe Moraes</h1>
+<h3 align="center">🎓 Estudante de **Sistemas de Informação** na PUC Minas 🛠️ Focado em **SQL Server** e administração de bancos de dados 📌 Buscando minha primeira oportunidade como **DBA Júnior** 🚀 Motivado a aplicar e expandir meus conhecimentos em ambientes reais 🤝 Aberto a colaborações e oportunidades – sinta-se à vontade para entrar em contato!</h3>
 
-<p>🎓 Estudante de Sistemas de Informação na PUC Minas.<br> 
-  🛠️ Focado em SQL Server e administração de bancos de dados.<br>
-  🚀 Motivado a aplicar e expandir meus conhecimentos em ambientes reais.<br>
-  🤝 Aberto a colaborações e oportunidades.<br> </p>
-
-📫 Sinta-se à vontade para entrar em contato! **moraexfelipe@gmail.com**
+- 📫 Sinta-se à vontade para entrar em contato! **moraexfelipe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/felipeguimaraesmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/felipeguimaraesmoraes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/felipe guimarães" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="felipe guimarães" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipeguimaraesmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeguimaraesmoraes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22320832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22320832" height="30" width="40" /></a>
 <a href="https://kaggle.com/moraexfelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moraexfelipe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/www.leetcode.com/leetcode.com/u/felipegmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="www.leetcode.com/leetcode.com/u/felipegmoraes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
