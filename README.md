@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou Felipe Moraes</h1>
-<hr>
+
 <p>🎓 Estudante de Sistemas de Informação na PUC Minas.<br> 
   🛠️ Focado em SQL Server e administração de bancos de dados.<br>
   🚀 Motivado a aplicar e expandir meus conhecimentos em ambientes reais.<br>
