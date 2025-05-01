@@ -1,7 +1,6 @@
 <h1 align="center">Olá👋, Eu sou Felipe Moraes</h1>
 <h3>🎓 Estudante de Sistemas de Informação na PUC Minas.<br> 
   🛠️ Focado em SQL Server e administração de bancos de dados.<br>
-  📌 Buscando minha primeira oportunidade como DBA Júnior.<br> 
   🚀 Motivado a aplicar e expandir meus conhecimentos em ambientes reais.<br>
   🤝 Aberto a colaborações e oportunidades.<br> </h3>
 
