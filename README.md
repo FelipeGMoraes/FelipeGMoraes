@@ -1,21 +1,51 @@
-<h1 align="center">Olá👋, Eu sou Felipe Moraes</h1>
+# Olá, eu sou o Felipe! 👋
 
-<p>🎓 Estudante de Sistemas de Informação na PUC Minas.<br> 
-  🛠️ SQL Server e administração de bancos de dados.<br>
-  🚀 Motivado a aplicar e expandir meus conhecimentos em ambientes reais.<br>
-  🤝 Aberto a colaborações e oportunidades.<br></p>
+🎓 **Estudante de Sistemas de Informação na PUC Minas**  
+💻 **Principais habilidades:** SQL | MSSQL | Python | Git | Linux | Azure |   
+📂 **Meus projetos estão disponíveis aqui no GitHub**  
+🎸 **Músico, surfista e skatista**  
 
-  📫 Sinta-se à vontade para entrar em contato! moraexfelipe@gmail.com
-  
-<h3 align="left">Encontre me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipeguimaraesmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeguimaraesmoraes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22320832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22320832" height="30" width="40" /></a>
-<a href="https://kaggle.com/moraexfelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moraexfelipe" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Sobre mim
 
+Oi! Eu sou o Felipe, estudante de Sistemas de Informação na PUC Minas. Sou movido por desafios e gosto de aprender coisas novas, principalmente quando envolve tecnologia. Gosto de estar presente, criar projetos diferentes e compartilhar conhecimento.  
+Além do mundo tech, também sou apaixonado por música, surf e skate.  
+Sempre aberto a novas conexões, colaborações e oportunidades!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipegmoraes&show_icons=true&locale=en&layout=compact" alt="felipegmoraes" /></p>
+---
+
+## Habilidades
+
+- SQL (Banco de Dados)
+- Python (Automação, Análise de Dados)
+- Azure
+- Git
+- Linux
+- MSSQL
+
+---
+
+## Projetos
+
+Meus principais projetos estão aqui no GitHub. Fique à vontade para explorar, dar feedback ou sugerir melhorias!
+
+---
+
+## Estatísticas do GitHub
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeGMoraes&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGMoraes&layout=compact&theme=dracula)
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipeguimaraesmoraes)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/moraexfelipe)
+
+Você também encontra mais informações nas minhas redes sociais e no meu perfil atual do GitHub.
+
+---
+
+*Aberto a colaborações e oportunidades!*
