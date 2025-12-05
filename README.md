@@ -32,13 +32,6 @@ Meus principais projetos estão aqui no GitHub. Fique à vontade para explorar, 
 
 ---
 
-## Estatísticas do GitHub
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeGMoraes&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGMoraes&layout=compact&theme=dracula)
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipeguimaraesmoraes)
