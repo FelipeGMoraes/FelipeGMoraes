@@ -1,7 +1,7 @@
 # Olá, eu sou o Felipe!
 
 🎓 **Estudante de Sistemas de Informação na PUC Minas**  
-💻 **Principais habilidades:** SQL | MSSQL | Python | Git | 
+💻 **Principais habilidades:** SQL | MSSQL | MySql | Python | Git | 
 📂 **Meus projetos estão disponíveis aqui no GitHub**  
 🎸 **Músico, surfista e skatista**  
 
