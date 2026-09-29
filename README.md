@@ -1,7 +1,7 @@
 # Olá, eu sou o Felipe!
 
 🎓 **Estudante de Sistemas de Informação na PUC Minas**  
-💻 **Principais habilidades:** Analista de Dados | SQL Server | Python (Pandas) | Business Intelligence
+💻 **Principais habilidades:** Analista de Dados | SQL Server | Python (Pandas) | Business Intelligence <br>
 📂 **Meus projetos estão disponíveis aqui no GitHub**  
 🎸 **Músico, surfista e skatista**  
 
