@@ -1,7 +1,7 @@
 # Olá, eu sou o Felipe!
 
 🎓 **Estudante de Sistemas de Informação na PUC Minas**  
-💻 **Principais habilidades:** SQL | MSSQL | MySql | Python | Git | 
+💻 **Principais habilidades:** Analista de Dados | SQL Server | Python (Pandas) | Business Intelligence
 📂 **Meus projetos estão disponíveis aqui no GitHub**  
 🎸 **Músico, surfista e skatista**  
 
@@ -19,9 +19,8 @@ Sempre aberto a novas conexões, colaborações e oportunidades!
 
 - SQL (Banco de Dados)
 - Python (Automação, Análise de Dados)
-- Azure
+- Business Intelligence
 - Git
-- Linux
 - MSSQL
 
 ---
